@@ -1,4 +1,4 @@
-const API_URL='https://script.google.com/macros/s/AKfycbxvtMJ5CW8dGSmu6Wp5JiRuZuP0hfRRE9BPmyd5dohR2PL_iBvc_-3Nhkfx6m8WBksTbQ/exec';
+const API_URL='https://script.google.com/macros/s/AKfycbw7u1xSxfG8AWNYrw0zp22gGIzFfPdnVWHzOD_lc9tzqojzi4K8uJXEKgQfzrSnogXzsA/exec';
 
 async function cekApi(){
  const status=document.getElementById('status');
